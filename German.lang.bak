@@ -460,7 +460,7 @@ UPDATES: Vafels (05/12/2018), Vafels (26/03/2019), Vafels (19/05/2019), MangoMar
 452=Tastenbelegung//										For Menu
 453=Magazin aufheben//										For Options
 454=Tür öffnen/schließen//									For Options
-455=VoIP(Trupp Leaders)//									For Options
+455=VoIP(Truppleiter)//									For Options
 456=Karte heranzoomen//										For Options
 457=Truppleiter-Menü//										For Options
 458=Lichter An/Aus//										For Options
@@ -656,7 +656,7 @@ UPDATES: Vafels (05/12/2018), Vafels (26/03/2019), Vafels (19/05/2019), MangoMar
 648=Clan Erstellen//
 649=Erstelle einen Clan und lade Spieler ein//
 650=Clan beitreten//
-651=Trete einem Clan über eine Einladung ein//
+651=Trete einem Clan über eine Einladung bei//
 652=Du musst mindestens Rang 60 oder Patreon Backer Fireteam sein um einen Clan zu erstellen//
 653=Einladungscode//
 654=Gebe den Code unten ein//
